@@ -6,6 +6,10 @@ My personal learning portfolio developed for the Professional Skills (IT1215) mo
 
 This portfolio documents my learning journey throughout the Professional Skills module. It includes weekly session summaries, key concepts, practical activities, personal reflections, and skills developed during the course.
 
+## Live Demo
+
+[View Portfolio](https://cjdebug.github.io/professional-skills-portfolio/)
+
 ## Topics Covered
 
 - Introduction to Professional Skills
